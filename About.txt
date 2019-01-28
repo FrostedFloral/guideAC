@@ -1,0 +1,12 @@
+Idea:
+Want to learn ReactJS and going to do that by creaing a guide of sorts for Animal Crossing: New Leaf (shortning to AC) for the Nintendo 3DS
+
+Lead up:
+I've already got a hand on node.js and using JSX. I've scratched the surface on creating a React app.
+I'm going to use gitbash to post my repo as a go along.
+I've had many years of playing AC and have recently started over. I have a new character and town, but have brought my furinutre catalog over so I wouldn't have to start all that from scratch. I want to know what I have already and what I'll need for the future as I casually play.
+
+Things to consider:
+some dataset where I can grab info from, in this case, AC's catalog.
+	Does one exist already on web?
+I really would love that job, and in relation, more time to really put my all into this. I'll fight this fight as much as I can.
